@@ -1,17 +1,13 @@
 import React from 'react';
-import { Button } from 'reactstrap';
 
 import './css/App.css';
+import PostContainer from './components/PostContainer';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Olá Coders! Somos a Coder Club
-          <br />
-          <Button>Teste click</Button>
-        </p>
+        <PostContainer />
       </header>
     </div>
   );

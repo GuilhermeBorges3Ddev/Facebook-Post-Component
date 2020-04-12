@@ -1,0 +1,8 @@
+#bigBox {
+    position: relative;
+    left: 0px;
+    right: 0px;
+    top: 50%;
+    bottom: 50%;
+    background: #395996;
+}

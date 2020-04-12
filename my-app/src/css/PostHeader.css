@@ -1,0 +1,24 @@
+.photo {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+
+    background: #395996;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 35px;
+    width: 35px;
+}
+
+.blueText {
+    color: darkblue;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.sponsored-area {
+    font-size: 10px;
+}

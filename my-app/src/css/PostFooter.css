@@ -1,0 +1,6 @@
+.grayArea {
+    position: absolute;
+    background: #F2F3F5;
+    border: 3px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+}
